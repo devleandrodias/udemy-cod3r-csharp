@@ -40,6 +40,7 @@ namespace CursoCSharp
                 {"Array - Coleçōes", Colecoes.Array.Executar },
                 {"List - Coleçōes", Colecoes.List.Executar },
                 {"ArrayList - Coleçōes", Colecoes.ColecoesArrayList.Executar },
+                {"Set - Coleçōes", Colecoes.Set.Executar },
 
                 // Módulo 05 - Orientação a Objetos
 
