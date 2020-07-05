@@ -56,6 +56,7 @@ namespace CursoCSharp
                 {"Lambdas", ExemploLambda.Executar },
                 {"Lambdas Delegate", LambdasDelegate.Executar },
                 {"Usando Delegate", UsandoDelegate.Executar },
+                {"Delegate Funçōes Anônimas", DelegateFuncAnonima.Executar },
 
                 // Módulo 08 - Explorando API
 
