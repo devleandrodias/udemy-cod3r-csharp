@@ -58,6 +58,7 @@ namespace CursoCSharp
                 {"Usando Delegate - Métodos e Funçōes", UsandoDelegate.Executar },
                 {"Delegate Funçōes Anônimas - Métodos e Funçōes", DelegateFuncAnonima.Executar },
                 {"Delegate Com Parâmetros - Métodos e Funçōes", DelegateComParametros.Executar },
+                {"Métodos de Extensão - Métodos e Funçōes", MetodosExtensao.Executar },
 
                 // Módulo 08 - Explorando API
 
