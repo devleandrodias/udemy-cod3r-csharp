@@ -14,9 +14,29 @@ namespace CursoCSharp.Colecoes
             Preco = preco;
         }
 
-        public override string ToString()
+        public override string ToString() => $"Produto: {Nome} por {Preco}";
+
+        /*
+         * HasCode é como se fosse um indice de banco de dados utilizado 
+         * para agrupar um conjunto de dados que depois vai ser verificado
+         * pelo equals
+         */
+        
+        public override int GetHashCode() => HashCode.Combine(Nome, Preco);
+
+        /*
+         * Equals é mais lento que o HasCode, se você tiver não tiver o equals
+         * e o hascode em sintonia terá pesquisas inconsistente dentro de 
+         * estruturas de hascode, nunca deixe compara com referência de memória
+         * quanto mais itens com mesmo HasCode, mais lento será sua pesquisa
+         * ideal, será cada instância ter seu próprio HasCode
+         */
+
+        public override bool Equals(object obj)
         {
-            return $"Produto: {Nome} por {Preco}";
+            return obj is Produto produto &&
+                   Nome == produto.Nome &&
+                   Preco == produto.Preco;
         }
     }
 
