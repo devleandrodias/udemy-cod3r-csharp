@@ -53,10 +53,11 @@ namespace CursoCSharp
 
                 // Módulo 07 - Execçōes
 
-                {"Lambdas", ExemploLambda.Executar },
-                {"Lambdas Delegate", LambdasDelegate.Executar },
-                {"Usando Delegate", UsandoDelegate.Executar },
-                {"Delegate Funçōes Anônimas", DelegateFuncAnonima.Executar },
+                {"Lambdas - Métodos e Funçōes", ExemploLambda.Executar },
+                {"Lambdas Delegate - Métodos e Funçōes", LambdasDelegate.Executar },
+                {"Usando Delegate - Métodos e Funçōes", UsandoDelegate.Executar },
+                {"Delegate Funçōes Anônimas - Métodos e Funçōes", DelegateFuncAnonima.Executar },
+                {"Delegate Com Parâmetros - Métodos e Funçōes", DelegateComParametros.Executar },
 
                 // Módulo 08 - Explorando API
 
