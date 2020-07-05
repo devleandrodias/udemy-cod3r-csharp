@@ -44,6 +44,7 @@ namespace CursoCSharp
                 {"Fila - Coleçōes", Colecoes.Fila.Executar },
                 {"Igualdade - Coleçōes", Colecoes.Igualdade.Executar },
                 {"Stack - Coleçōes", Colecoes.ColecaoStack.Executar },
+                {"Dicionário - Coleçōes", Colecoes.Dicionario.Executar },
 
                 // Módulo 05 - Orientação a Objetos
 
