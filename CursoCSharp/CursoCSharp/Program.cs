@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
+using CursoCSharp.MetodosFuncoes;
 
 namespace CursoCSharp
 {
@@ -52,13 +53,15 @@ namespace CursoCSharp
 
                 // Módulo 07 - Execçōes
 
+                {"Lambdas", ExemploLambda.Executar }
+
                 // Módulo 08 - Explorando API
 
                 // Módulo 09 - Tópicos Avançados
 
 
             });
-             
+
             central.SelecionarEExecutar();
         }
     }
