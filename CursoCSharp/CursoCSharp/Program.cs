@@ -54,7 +54,8 @@ namespace CursoCSharp
                 // Módulo 07 - Execçōes
 
                 {"Lambdas", ExemploLambda.Executar },
-                {"Lambdas Delegate", LambdasDelegate.Executar }
+                {"Lambdas Delegate", LambdasDelegate.Executar },
+                {"Usando Delegate", UsandoDelegate.Executar },
 
                 // Módulo 08 - Explorando API
 
