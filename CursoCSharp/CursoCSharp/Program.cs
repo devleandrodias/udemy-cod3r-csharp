@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CursoCSharp.ClassesMetodos;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.MetodosFuncoes;
+using CursoCSharp.API;
 
 namespace CursoCSharp
 {
@@ -68,6 +69,8 @@ namespace CursoCSharp
                 // Módulo 07 - Execçōes
 
                 // Módulo 08 - Explorando API
+
+                {"Primeiro Arquivo - Explorando API C#", PrimeiroArquivo.Executar },
 
                 // Módulo 09 - Tópicos Avançados
 

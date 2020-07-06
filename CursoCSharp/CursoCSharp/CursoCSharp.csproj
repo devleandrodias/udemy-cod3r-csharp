@@ -10,6 +10,7 @@
     <Folder Include="Colecoes\" />
     <Folder Include="MetodosFuncoes\" />
     <Folder Include="ClassesMetodos\" />
+    <Folder Include="API\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Fundamentos\LeandroDadosConsole.cs" />
