@@ -41,6 +41,7 @@ namespace CursoCSharp
                 {"Métodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar },
                 {"Métodos Estáticos - Classes e Métodos", MetodosEstatico.Executar },
                 {"Atributos Estáticos - Classes e Métodos", AtributosEstaticos.Executar },
+                {"Desafio Atributos - Métodos e Funçōes", DesafioAtributo.Executar },
 
                 // Módulo 04 - Coleçōes
 
