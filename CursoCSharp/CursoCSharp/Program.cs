@@ -37,6 +37,7 @@ namespace CursoCSharp
                 // Módulo 03 - Classes e Métodos
 
                 {"Membros e Métodos - Classes e Métodos", Membros.Executar },
+                {"Construtores - Classes e Métodos", Construtores.Executar },
 
                 // Módulo 04 - Coleçōes
 
