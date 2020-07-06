@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using CursoCSharp.ClassesMetodos;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.MetodosFuncoes;
 
@@ -36,6 +36,8 @@ namespace CursoCSharp
 
                 // Módulo 03 - Classes e Métodos
 
+                {"Membros e Métodos - Classes e Métodos", Membros.Executar },
+
                 // Módulo 04 - Coleçōes
 
                 {"Array - Coleçōes", Colecoes.Array.Executar },
@@ -51,14 +53,14 @@ namespace CursoCSharp
 
                 // Módulo 06 - Métodos e Funçōes
 
-                // Módulo 07 - Execçōes
-
                 {"Lambdas - Métodos e Funçōes", ExemploLambda.Executar },
                 {"Lambdas Delegate - Métodos e Funçōes", LambdasDelegate.Executar },
                 {"Usando Delegate - Métodos e Funçōes", UsandoDelegate.Executar },
                 {"Delegate Funçōes Anônimas - Métodos e Funçōes", DelegateFuncAnonima.Executar },
                 {"Delegate Com Parâmetros - Métodos e Funçōes", DelegateComParametros.Executar },
                 {"Métodos de Extensão - Métodos e Funçōes", MetodosExtensao.Executar },
+
+                // Módulo 07 - Execçōes
 
                 // Módulo 08 - Explorando API
 

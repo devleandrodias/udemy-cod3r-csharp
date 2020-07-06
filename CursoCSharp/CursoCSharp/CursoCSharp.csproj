@@ -9,6 +9,7 @@
     <Folder Include="Fundamentos\" />
     <Folder Include="Colecoes\" />
     <Folder Include="MetodosFuncoes\" />
+    <Folder Include="ClassesMetodos\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Fundamentos\LeandroDadosConsole.cs" />
