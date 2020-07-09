@@ -4,6 +4,7 @@ using CursoCSharp.ClassesMetodos;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.MetodosFuncoes;
 using CursoCSharp.API;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp
 {
@@ -20,6 +21,7 @@ namespace CursoCSharp
                 // Módulo 01 - Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comanentários - Fundamentos", Comentarios.Executar},
+                {"Váriaveis e Constantes - Fundamentos", VariaveisConstantes.Executar},
                 {"Inferência - Fundamentos", Inferencia.Executar },
                 {"Interpolação - Fundamentos", Interpolacao.Executar },
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar },
@@ -74,7 +76,7 @@ namespace CursoCSharp
 
                 // Módulo 09 - Tópicos Avançados
 
-
+                {"LINQ 1", Linq1.Executar }
             });
 
             central.SelecionarEExecutar();

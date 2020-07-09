@@ -11,6 +11,7 @@
     <Folder Include="MetodosFuncoes\" />
     <Folder Include="ClassesMetodos\" />
     <Folder Include="API\" />
+    <Folder Include="TopicosAvancados\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Fundamentos\LeandroDadosConsole.cs" />
