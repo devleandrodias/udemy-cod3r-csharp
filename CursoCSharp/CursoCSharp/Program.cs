@@ -76,7 +76,8 @@ namespace CursoCSharp
 
                 // Módulo 09 - Tópicos Avançados
 
-                {"LINQ 1", Linq1.Executar }
+                {"LINQ #01", Linq1.Executar },
+                {"LINQ #02", Linq2.Executar },
             });
 
             central.SelecionarEExecutar();
