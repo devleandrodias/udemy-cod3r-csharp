@@ -45,6 +45,7 @@ namespace CursoCSharp
                 {"Métodos Estáticos - Classes e Métodos", MetodosEstatico.Executar },
                 {"Atributos Estáticos - Classes e Métodos", AtributosEstaticos.Executar },
                 {"Desafio Atributos - Métodos e Funçōes", DesafioAtributo.Executar },
+                {"Params - Métodos e Funçōes", Params.Executar },
 
                 // Módulo 04 - Coleçōes
 
